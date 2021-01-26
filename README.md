@@ -16,17 +16,17 @@
 
 ## I'm passionate about:
 
-- 🖥 Web development
--  Apple ecosystem
-- 📱 Mobile & Watch apps 
-- 🎵 Sound effect & music Lover
+- 🖥  Web development
+-   Apple ecosystem
+- 📱  Mobile & Watch apps 
+- 🎵  Sound effect & music Lover
 
 </br>
 
 ## Skills
 
-![PHP](https://img.shields.io/badge/-PHP-%237277ae?style=flat-square&logo=PHP&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=GO&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-%237277ae?style=flat-square&logo=PHP&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%230391cb?style=flat-square&logo=css3&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23efd81e?style=flat-square&logo=JavaScript&logoColor=ffffff)
