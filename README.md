@@ -1,27 +1,29 @@
-
 # Edward zZhang
 
 ### Web Developer
 
-</br>
+<br>
 
-👨🏻‍💻 Hello my friend! I'm Edward Zhang, a web developer.
+```markdown
+👨🏻‍💻 Hello！I'm Edward Zhang, a web developer.
 
-📍 From China🇨🇳 . Born in GuangDong Province.
+📍 From China 🇨🇳 . Born in GuangDong Province.
+```
 
-</br>
 
 
-</br>
 
 ## I'm passionate about:
 
-- 💻  <b> Web development </b>
--   <b> Apple ecosystem </b>
-- 📱  <b> Mobile & Watch apps </b>
-- 🎵  <b> Sound effect & music Lover </b>
+- `  `  **Apple ecosystem**
+- `💻`  **Web development**
+- `📱`  **Mobile & Watch apps**
+- `🎵`  **Sound effect & Music**
+- `📷` **Photography**
+- `🏎` **Driving**
 
-</br>
+
+<br>
 
 ## Skills
 
@@ -31,14 +33,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%230391cb?style=flat-square&logo=css3&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23efd81e?style=flat-square&logo=JavaScript&logoColor=ffffff)
 
-
 ![GIT](https://img.shields.io/badge/-Git-%23e84e32?style=flat-square&logo=GIT&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue-%234FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/-JQuery-%230865a8?style=flat-square&logo=JQuery&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%230d97e4?style=flat-square&logo=Docker&logoColor=ffffff)
-
-
-
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%233f2e1e?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
@@ -47,10 +45,9 @@
 
 
 
-</br>
+<br>
 
 ## More Details(Click For More)
-
 
 <details>
 	<summary>Other Develop Skills</summary>
@@ -83,8 +80,7 @@
 
 
 
-</br>
-
+<br>
 
 ## Reach me on:
 
