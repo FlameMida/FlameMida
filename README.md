@@ -16,7 +16,7 @@
 
 ## I'm passionate about:
 
-- 🖥  <b> Web development </b>
+- 💻  <b> Web development </b>
 -   <b> Apple ecosystem </b>
 - 📱  <b> Mobile & Watch apps </b>
 - 🎵  <b> Sound effect & music Lover </b>
