@@ -49,7 +49,7 @@
 
 </br>
 
-## More (Click to expand)
+## More Details(Click For More)
 
 
 <details>
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-	<summary>Operating Systems & Cloud</summary>
+	<summary>Operating Systems</summary>
 	<ul>
 		<li><b>Systems</b>: Windows, MacOS, Linux.</li>
 		<li><b>VM</b>: Docker, VMWare, VirtualBox,Parallels Desktop.</li>
