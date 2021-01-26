@@ -16,10 +16,10 @@
 
 ## I'm passionate about:
 
-- 🖥  Web development
--   Apple ecosystem
-- 📱  Mobile & Watch apps 
-- 🎵  Sound effect & music Lover
+- 🖥  <b> Web development </b>
+-   <b> Apple ecosystem </b>
+- 📱  <b> Mobile & Watch apps </b>
+- 🎵  <b> Sound effect & music Lover </b>
 
 </br>
 
