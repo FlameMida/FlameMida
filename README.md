@@ -83,11 +83,7 @@
 
 <br>
 
-## Reach me on:
 
-<a  target="_blank" href="mailto:a385301575@gmail.com;">
-  <img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
-</a>
 
 
 
