@@ -19,6 +19,7 @@
 - `📷` **Photography**
 - `🏎` **Driving**
 <br>
+
 ## Skills
 
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=GO&logoColor=ffffff)
@@ -37,6 +38,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%23ba7257?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
 <br>
+
 ## More Details(Click For More)
 
 <details>
