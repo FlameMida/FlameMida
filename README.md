@@ -5,24 +5,19 @@
 <br>
 
 ```markdown
-👨🏻‍💻 Hello！I'm Edward Zhang, a web developer.
+👨🏻‍💻 Hello！I'm Edward Zhang, a China 🇨🇳 web developer.
 
-📍 From China 🇨🇳 . Born in GuangDong Province.
 ```
-
-
-
 <br>
 
 ## I'm passionate about:
 
-- `  `  **Apple ecosystem**
+- `🍎`  **Apple ecosystem**
 - `💻`  **Web development**
 - `📱`  **Mobile & Watch apps**
 - `🎵`  **Sound effect & Music**
 - `📷` **Photography**
 - `🏎` **Driving**
-
 
 <br>
 
