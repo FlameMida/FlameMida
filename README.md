@@ -12,15 +12,13 @@
 
 ## I'm passionate about:
 
-- `🍎`  **Apple ecosystem**
+- `🍎`  **Apple ecosystem**
 - `💻`  **Web development**
 - `📱`  **Mobile & Watch apps**
-- `🎵`  **Sound effect & Music**
+- `🎤`  **Sound effect & Music**
 - `📷` **Photography**
 - `🏎` **Driving**
-
 <br>
-
 ## Skills
 
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=GO&logoColor=ffffff)
@@ -38,21 +36,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%23015e85?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%23ba7257?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%232f5e8e?style=flat-square&logo=postgresql&logoColor=ffffff)
-
-
-
 <br>
-
 ## More Details(Click For More)
 
 <details>
 	<summary>Other Develop Skills</summary>
 	<ul>
-    <li><b>Go</b>: Gin, BeeGo. </li>
+		<li><b>Go</b>: Gin, BeeGo. </li>
 		<li><b>PHP</b>: ThinkPHP. </li>
-		<li><b>DB</b>: MySQL, PostgreSQL, MariaDB, MongoDB, SQL Server. </li>
+		<li><b>DB</b>: MySQL, MongoDB, SQL Server. </li>
 		<li><b>Javascript</b>: Vue. </li>
-  </ul>
+  	</ul>
 </details>
 
 <details>
@@ -68,17 +62,9 @@
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-		<li><b>Systems</b>: Windows, MacOS, Linux.</li>
-		<li><b>VM</b>: Docker, VMWare, VirtualBox,Parallels Desktop.</li>
-		<li><b>Web Servers</b>: Apache, Nginx.</li>
+		<li><b>Systems</b>: Windows, MacOS.</li>
+		<li><b>VM</b>: Docker,Parallels Desktop.</li>
+		<li><b>Web Servers</b>: Caddy, Nginx.</li>
 	</ul>
 </details>
-
-
-
 <br>
-
-
-
-
-
