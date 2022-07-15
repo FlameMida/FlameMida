@@ -4,7 +4,7 @@
 <br>
 
 ```markdown
-👨🏻‍💻 Hello！I'm Edward Zhang, a China 🇨🇳 web developer.
+👨🏻‍💻 Hello！I'm Edward Zhang, a 🇨🇳 web developer.
 
 ```
 ![Activity](./profile-3d-contrib/profile-night-rainbow.svg)
