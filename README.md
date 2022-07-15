@@ -1,14 +1,15 @@
 # Edward zZhang
 
 ### Web Developer
-
 <br>
 
 ```markdown
 👨🏻‍💻 Hello！I'm Edward Zhang, a China 🇨🇳 web developer.
 
 ```
+![Activity](./profile-3d-contrib/profile-night-rainbow.svg)
 <br>
+
 
 ## I'm passionate about:
 
