@@ -1,8 +1,5 @@
 # Edward zZhang
-
-### Web Developer
 <br>
-
 ```markdown
 👨🏻‍💻 Hello！I'm Edward Zhang, a 🇨🇳 web developer.
 
