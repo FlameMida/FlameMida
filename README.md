@@ -36,9 +36,9 @@
 	<ul>
 		<li><b>OS</b>: MacOS.</li>
 		<li><b>Web Servers</b>: Nginx.</li>
-		<li><b>IDE</b>:IntelliJ IDEA/Visual Studio Code.</li>
-		<li><b>Terminal</b>iterm2.</li>
-		<li><b>VCS</b>Git.</li>
+		<li><b>IDE</b>: IntelliJ IDEA/Visual Studio Code.</li>
+		<li><b>Terminal</b>: iterm2.</li>
+		<li><b>VCS</b>: Git.</li>
 	</ul>
 </details>
 
