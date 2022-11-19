@@ -1,7 +1,7 @@
 # Edward zZhang
 
 ```markdown
-👨🏻‍💻 Hello！I'm Edward Zhang, a 🇨🇳 web developer.
+👨🏻‍💻 Hi there！I'm a web developer.
 
 ```
 ![Activity](./profile-3d-contrib/profile-night-rainbow.svg)
